@@ -9,6 +9,7 @@ Dog monitoring software for commercial facility and personal usage.
 * Uses web camera to detect injured dog [Wound licking, visible bleeding, limping, and etc] and sends notification
 * Estimates the time the dog has been outside and sends an notification above a certain time limit
 * Detects if the dog has done its business outside and can go inside 
+* Integrates with the PetExec API
 
 ## Training Data Used
 * Dog Boarding, Daycare, and Grooming Salons [See participating companies](https://github.com/saandre15/watchdog/blob/main/PARTICPATION.md)
