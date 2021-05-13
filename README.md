@@ -15,5 +15,5 @@ Dog monitoring software for commercial facility and personal usage.
 * Youtube, Vimeo, and etc Videos
 
 ## Server Specs Used
-1x On-Site w/ GTX 1080 16 GB RAM 4 Cores
-1x On-Site w/ NO GPU 64 GB RAM 24 Cores
+* 1x On-Site w/ GTX 1080 16 GB RAM 4 Cores
+* 1x On-Site w/ NO GPU 64 GB RAM 24 Cores
