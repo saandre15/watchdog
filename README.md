@@ -11,7 +11,7 @@ Dog monitoring software for commercial facility and personal usage.
 * Detects if the dog has done its business outside and can go inside 
 
 ## Training Data Used
-* Dog Boarding, Daycare, and Grooming Salons [See participating companies]
+* Dog Boarding, Daycare, and Grooming Salons [See participating companies](https://github.com/saandre15/watchdog/blob/main/PARTICPATION.md)
 * Youtube, Vimeo, and etc Videos
 
 ## Server Specs Used
